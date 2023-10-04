@@ -9,6 +9,8 @@ It's a training project that allowed me to reinforce my React skills and discove
   alt="Alt text"
   align="center">
 
+  Here is a working live demo : [Sumz](https://sumz-me.netlify.app/)
+
 ## Features
 * Save history using the local storage
 * Implement copy to clipboard
