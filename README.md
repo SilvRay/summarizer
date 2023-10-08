@@ -19,7 +19,7 @@ It's a training project that allowed me to reinforce my React skills and discove
 ## Technologies
 * ReactJS
 * Redux Toolkit
-* Tailwind css
+* Tailwind CSS
 
 ## Setup
 ```
@@ -35,7 +35,7 @@ VITE_RAPID_API_ARTICLE_KEY="*******"
 ```
 
 ## Sources
-This app was created using a tutorial by [@adrianhajdin]([https://www.eericon.github.io/post/timer-android](https://github.com/adrianhajdin)https://github.com/adrianhajdin)
+This app was created following a tutorial by [@adrianhajdin]([https://www.eericon.github.io/post/timer-android](https://github.com/adrianhajdin)https://github.com/adrianhajdin)
 
 ## License
 This project is licensed under the MIT License.
